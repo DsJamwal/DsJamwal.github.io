@@ -9,8 +9,8 @@ For this project I extracted text from the list of URL provided in the input.xls
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)]](#)
 ### Sales Forecasting using Time Series analysis
 The objective in this was, Building a forecasting model to <b>forecast the daily sales for the next six weeks.<b> Since the company is just embarking on this project, the scope had been kept to nine key stores across Europe. As the record was very large only few stores were selected.
-<img src="images/image2.png?raw=true/>
-<img src="images/image3.png?raw=true/>
+<img src="images/image 2.png?raw=true/>
+<img src="images/image 3.png?raw=true/>
 <img src="images/image4.png?raw=true/>
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)]](#)
 [view code on colab](https://colab.research.google.com/drive/1OtezRvb2f_Gcy2f9MyhUchSI2h4Nxom-#scrollTo=b1e7761f)
