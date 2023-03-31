@@ -1,4 +1,3 @@
-## Deepak's Portfolio
 ## My selected projects in Data Science, Machine Learning and NLP
 
 ---
