@@ -44,5 +44,5 @@ Built a model which is capable of classifying customer complaints based on produ
   
 
 ### Current Work That I'm doing
-I am currently writing a thesis on Deep learning topic, for My MSC in Machine Learning and Artificial Intelligence from LJMU.
+I am currently writing a thesis on Deep learning topic, for My MSc in Machine Learning and Artificial Intelligence from LJMU.
  
